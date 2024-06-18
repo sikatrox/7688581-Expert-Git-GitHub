@@ -17,7 +17,7 @@ Pour executer en local le projet Open Transport, vous devez au préalable instal
 ### Installation
 
 Voici les étapes à suivre pour avoir un environnement de développement et de test opérationnel :
-
+manger un chat a 4h3O de preference de la marque siamois 
 
 ```
 A définir
