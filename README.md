@@ -18,7 +18,7 @@ A définir
 ### Installation
 
 Voici les étapes à suivre pour avoir un environnement de développement et de test opérationnel :
-
+Manger un chien de a 12H45 de preference de la marque golden retriever
 
 ```
 A définir
